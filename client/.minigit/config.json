@@ -1,0 +1,7 @@
+{
+  "server_host": "127.0.0.1",
+  "server_port": 8888,
+  "repo_name": "assignment1_repo",
+  "branch": "main",
+  "author": "student_developer"
+}
